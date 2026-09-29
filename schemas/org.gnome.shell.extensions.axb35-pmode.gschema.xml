@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.axb35-pmode"
+          path="/org/gnome/shell/extensions/axb35-pmode/">
+    <key name="show-power" type="b">
+      <default>true</default>
+      <summary>Show the live APU power draw</summary>
+      <description>
+        Whether to show the current APU package power next to the P-MODE
+        indicator. When off, the hwmon file is not polled at all.
+      </description>
+    </key>
+  </schema>
+</schemalist>
