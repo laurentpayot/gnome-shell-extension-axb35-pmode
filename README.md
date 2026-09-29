@@ -51,6 +51,15 @@ Search for **AXB35 P-MODE Indicator** on
 [extensions.gnome.org](https://extensions.gnome.org/) or in the Extension
 Manager app.
 
+### From a GitHub release
+
+```bash
+wget https://github.com/laurentpayot/gnome-shell-extension-axb35-pmode/releases/latest/download/axb35-pmode@laurentpayot.github.io.shell-extension.zip
+gnome-extensions install --force axb35-pmode@laurentpayot.github.io.shell-extension.zip
+```
+
+Then log out and back in, and enable it as below.
+
 ### From source
 
 ```bash
