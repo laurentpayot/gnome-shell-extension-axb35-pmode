@@ -118,7 +118,8 @@ make pack    # builds axb35-pmode@laurentpayot.github.io.shell-extension.zip
 make lint    # runs shexli, the analyzer extensions.gnome.org uses (pip install shexli)
 ```
 
-Tested on a GMKtec EVO-X2 with Ubuntu 26.04 and GNOME Shell 50.
+Declared for GNOME Shell 48 to 51, tested on a GMKtec EVO-X2 with Ubuntu
+26.04 and GNOME Shell 50.
 
 ## License
 

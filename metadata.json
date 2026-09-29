@@ -2,8 +2,8 @@
   "uuid": "axb35-pmode@laurentpayot.github.io",
   "name": "AXB35 P-MODE Indicator",
   "description": "Shows the position of the physical P-MODE button in the top bar, with the live APU power draw, on mini PCs built on the Sixunited AXB35-02 board: GMKtec EVO-X2, Bosgame M5, FEVM FA-EX9, Peladn YO1, NIMO AI MiniPC, Corsair AI Workstation 300.\n\nRequires the ec_su_axb35 kernel driver, which this extension does not install: https://github.com/cmetz/ec-su_axb35-linux\nWithout it the indicator shows a question mark, and its menu links to the driver's installation instructions.",
-  "shell-version": ["48", "49", "50"],
-  "version-name": "1.0",
+  "shell-version": ["48", "49", "50", "51"],
+  "version-name": "1.1",
   "settings-schema": "org.gnome.shell.extensions.axb35-pmode",
   "url": "https://github.com/laurentpayot/gnome-shell-extension-axb35-pmode"
 }
